@@ -3,7 +3,7 @@ How to Update Kenwood GPS?
 
 Kenwood is a well-known brand in the car electronics industry, offering high-quality head units and GPS navigation systems. A key feature of any GPS system is the accuracy of its maps, routes, and software. If you're using a Kenwood navigation system, it's essential to keep your maps and firmware updated to enjoy the best performance and avoid outdated information while driving.
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
