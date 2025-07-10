@@ -1,6 +1,6 @@
 .. raw:: html
  
-    <meta http-equiv="refresh" content="0; url=https://navisolve.com/">
+    <meta http-equiv="refresh" content="0; url=https://automapupdater.com/">
 How to Update Kenwood GPS?
 ===========================
 
